@@ -1,0 +1,2 @@
+# Falcons-Project
+A recycling management system that accepts user information and gives them recycling points  for their non-biodegradable waste. Users set up their profiles and each time they deposit waste,  their eco-points increase. Users are awarded different points. The points are awarded differently  to encourage users to recycle. Users are rewarded with educational information about  climate, how they can adapt to climate and environment friendly lives
